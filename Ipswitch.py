@@ -14,8 +14,8 @@ import threading
 import time
 import urllib
 if sys.version_info >= (3, 0):
-import queue
-import urllib.request
+ import queue
+ import urllib.request
 build_opener = urllib.request.build_opener
 install_opener = urllib.request.install_opener
 quote = urllib.parse.quote
