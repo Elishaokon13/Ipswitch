@@ -41,7 +41,7 @@ BANNER = """
 +-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-+
 |f||e||t||c||h||-||s||o||m||e||-||p||r||o||x||i||e||s| <- v%s
 +-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-+
-By George Miller""".strip("\r\n") % VERSION
+By Melvin_Cypher""".strip("\r\n") % VERSION
 ANONIMITY_LEVELS = {"high": "elite", "medium": "anonymous", "low": "transparent"}
 FALLBACK_METHOD = False
 IFCONFIG_CANDIDATES = ("https://api.ipify.org/?format=text", "https://myexternalip.com/raw", "https://wtfismyip.com/text", "https://icanhazip.com/", "https://ipv4bot.whatismyipaddress.com/", "https://ip4.seeip.org")
